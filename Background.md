@@ -24,7 +24,7 @@ World Health Organization. (2022). World mental health report: Transforming ment
 
 Public Health Agency of Canada. (2023). Mental health in Canada: COVID-19 and beyond. Government of Canada.
 
-Patel, V., Saxena, S., Lund, C., Thornicroft, G., Baingana, F., Bolton, P., ... & UnÜtzer, J. (2018). The Lancet Commission on global mental health and sustainable development. The Lancet, 392(10157), 1553–1598. https://doi.org/10.1016/S0140-6736(18)31612-X
+Patel, V., Saxena, S., Lund, C., Thornicroft, G., Baingana, F., Bolton, P., ... & UnÜtzer, J. (2018). The Lancet Commission on global mental health and sustainable development. 
 
 ## Planned Datasets
 
