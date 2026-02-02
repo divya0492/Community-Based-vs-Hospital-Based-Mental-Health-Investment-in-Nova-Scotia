@@ -1,8 +1,9 @@
 # Community-Based vs Hospital-Based Mental Health Investment in Nova-Scotia
 
 ## Decision Statement
-
+<p align="justify">
 Senior leadership within the Nova Scotia Department of Health and Wellness must decide whether to prioritize funding for community-based mental health services or hospital-based mental health care to reduce mental health service wait times over the next five years.
+</p>
 
 ## Executive Summary
 <p align="justify">
