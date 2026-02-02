@@ -9,21 +9,30 @@ Given the interconnected nature of mental health systems, policy decisions canno
 ## Key Stakeholders
 
 •	Provincial Health Leadership: Responsible for funding allocation and policy decisions.
+
 •	Healthcare Providers: Deliver services and are affected by workforce capacity and workload.
+
 •	Community Organizations: Implement preventive mental health programs.
+
 •	Patients and Families: Directly impacted by service accessibility and quality.
+
 •	Employers and Educational Institutions: Affected by population mental health and productivity.
 
 ## References
 
 World Health Organization. (2022). World mental health report: Transforming mental health for all. WHO.
+
 Public Health Agency of Canada. (2023). Mental health in Canada: COVID-19 and beyond. Government of Canada.
+
 Patel, V., Saxena, S., Lund, C., Thornicroft, G., Baingana, F., Bolton, P., ... & UnÜtzer, J. (2018). The Lancet Commission on global mental health and sustainable development. The Lancet, 392(10157), 1553–1598. https://doi.org/10.1016/S0140-6736(18)31612-X
 
 ## Planned Datasets
 
 •	 CIHI Mental Health Indicators (service utilization, wait times, hospitalization rates): https://www.cihi.ca/en/access-data-and-reports/indicator-library
+
 •	Nova Scotia Provincial Health Statistics: https://www.nshealth.ca/about-nova-scotia-health/reports-statistics-and-accountability
+
 •	Canadian Community Health Survey – Mental Health: https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=5015
+
 •	WHO Global Health Estimates – Mental Health: https://www.who.int/data/gho
 
