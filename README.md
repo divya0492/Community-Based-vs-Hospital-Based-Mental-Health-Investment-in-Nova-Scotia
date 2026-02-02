@@ -13,5 +13,3 @@ Applying a systems-thinking perspective helps illuminate the complex interaction
 ## Initial Causal Loop Diagram (CLD)
 
 ![Initial Causal Loop Diagram](cld.png)
-
-
