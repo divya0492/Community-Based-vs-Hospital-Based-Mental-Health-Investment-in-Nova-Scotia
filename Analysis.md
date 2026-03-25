@@ -51,7 +51,7 @@ A systematic review found that community-based rehabilitation programs reduced i
 <p align="justify">
 A supporting archetype, Fixes that Fail, reinforces the primary pattern. Hospital capacity expansion (the "fix") temporarily relieves wait-time pressure but generates unintended consequences workforce burnout, longer average stays, and repeat hospitalisations that worsen the original problem. The data confirm this: hospital days grew 17% even as discharge rates fell 19%, meaning the fix is consuming more resources while producing worse throughput. Patients waiting more than three months for care show significantly worse clinical outcomes (worsened HoNOS scores), further increasing acute-care demand.
 
-([Reichert & Jacobs, 2018, PMC6221005](https://pmc.ncbi.nlm.nih.gov/articles/PMC6221005/)).
+([Reichert & Jacobs, 2018, PMC6221005](https://pmc.ncbi.nlm.nih.gov/articles/PMC6221005/))
 
 ---
 
