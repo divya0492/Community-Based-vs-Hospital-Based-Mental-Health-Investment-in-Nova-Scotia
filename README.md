@@ -117,4 +117,4 @@ Investment in community-based services (counselling, outreach, rehabilitation) i
 B1 is the only balancing loop in the system and the primary lever for long-term stability. Activating it through community investment simultaneously weakens R1 (fewer people spiral into crisis) and relieves R2 (fewer acute admissions). This makes community-based funding the structurally dominant strategy for sustainable system improvement.
 </p>
 
-[Foundational (Systems Focus)](Analysis.md)
+[Analysis md](Analysis.md)
