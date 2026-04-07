@@ -9,7 +9,7 @@ Shifting the Burden is a system archetype in which a problem symptom is addresse
 In the generic Shifting the Burden template, a problem symptom triggers two competing responses: a symptomatic solution that provides fast relief, and a fundamental solution that addresses root causes but operates with a delay. A side effect of the symptomatic solution gradually undermines the fundamental solution, locking the system into growing dependence on the quick fix.
 
 
-![Generic Shifting the Burden Archetype](img/archetype-generic.png)
+![Generic Shifting the Burden Archetype](../img/archetype-generic.png)
 
 #### Mapping to Nova Scotia's Mental Health System
 
@@ -21,7 +21,7 @@ In the generic Shifting the Burden template, a problem symptom triggers two comp
 | **Side Effect** | Hospital overload → workforce burnout → reduced capacity → more repeat hospitalisations; community infrastructure atrophies from underinvestment |
 | **Delay** | Community-based programs require 3–5 years to build capacity and show population-level results |
 
-![Shifting the Burden — Nova Scotia Mapping](img/archetype-mapped.png)
+![Shifting the Burden — Nova Scotia Mapping](../img/archetype-mapped.png)
 
 #### Key Variables and Loops Creating Archetypal Behaviour
 
