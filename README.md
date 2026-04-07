@@ -9,7 +9,7 @@ Senior leadership within the Nova Scotia Department of Health and Wellness must 
 <p align="justify">
 Mental health demand in Nova Scotia has risen sharply due to population growth, aging demographics, and the lasting effects of the COVID-19 pandemic. The result is a system under strain: community counselling wait times climbed 45% between 2020 and 2023 (from 22 to 32 days median), 41.5% of Nova Scotians with a mental health disorder report unmet care needs, and hospital inpatient days have grown 17% over five years yet discharge rates have fallen 19%. The system is spending more on acute care and producing worse throughput.
 <p align="justify">
-This project applies a systems-thinking lens to the question of how the Department of Health and Wellness should allocate its mental health budget over the next five years. Using data from the Canadian Institute for Health Information (CIHI) and a Causal Loop Diagram framework, the analysis reveals that Nova Scotia's mental health system is locked in a **Shifting the Burden** dynamic: hospital-based acute care acts as a symptomatic fix that absorbs growing demand, while community-based prevention and early intervention the fundamental solution remains chronically under-resourced.
+This project applies a systems-thinking lens to the question of how the Department of Health and Wellness should allocate its mental health budget over the next five years. Using data from the Canadian Institute for Health Information (CIHI) and a Causal Loop Diagram framework, the analysis reveals that Nova Scotia's mental health system is locked in a Shifting the Burden dynamic: hospital-based acute care acts as a symptomatic fix that absorbs growing demand, while community-based prevention and early intervention the fundamental solution remains chronically under-resourced.
 <p align="justify">
 The evidence points clearly toward a community-first investment strategy. Community rehabilitation programs reduce inpatient days by up to 90% (CIHI/PMC evidence). Early intervention prevents the deterioration spiral that drives emergency department visits and repeat hospitalizations. Workforce burnout the key side effect feeding the hospital overload loop can only be broken by reducing avoidable admissions through upstream community services. While the returns on community investment take 3–5 years to materialize, the data show that the status quo leads to continued escalation. A community-first approach is not just preferable; it is structurally necessary to escape the current reinforcing cycle.
 
@@ -138,7 +138,7 @@ Investment in community-based services (counselling, outreach, rehabilitation) i
 B1 is the only balancing loop in the system and the primary lever for long-term stability. Activating it through community investment simultaneously weakens R1 (fewer people spiral into crisis) and relieves R2 (fewer acute admissions). This makes community-based funding the structurally dominant strategy for sustainable system improvement.
 </p>
 
-[Analysis md](Analysis.md)
+[Analysis](Analysis.md)
 
 
 ## Final Causal Loop Diagram
